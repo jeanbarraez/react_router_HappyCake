@@ -1,0 +1,14 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+}
+
+.cake{
+  font-size: 8rem;
+}
+.not-found{
+  margin-top: 5rem;
+  text-align:center
+}
